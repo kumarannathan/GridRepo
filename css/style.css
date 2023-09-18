@@ -38,7 +38,7 @@ h1, h2{
 
   /* 9. Round the corners */
 
-  grid {
+  .grid {
     width: 800px;
     margin: auto;
     display: grid;
