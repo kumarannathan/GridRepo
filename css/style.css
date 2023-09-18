@@ -42,7 +42,7 @@ h1, h2{
     width: 800px;
     margin: auto;
     display: grid;
-    grid-template-columns: 200px 200px 200px;
+    grid-template-columns: 25% 25% 25%;
     grid-gap: 10px;
     background-color: #91f321;
     background-image: url("../images/background.jpg");
